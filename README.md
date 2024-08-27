@@ -1,10 +1,10 @@
-<img src="/assets/1723168802376.jpg" alt="Image" width="150"/>
-
 I'm interested in artificial intelligence.
 
 I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science at the [University of Pennsylvania](https://www.upenn.edu/).
 
 I received a Bachelor of Science (B.S.) in computer science with departmental honors at [Vanderbilt University](https://www.vanderbilt.edu/).
+
+<img src="/assets/1723168802376.jpg" alt="Image" width="150"/>
 
 ## Research
 
