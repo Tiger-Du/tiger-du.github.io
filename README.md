@@ -8,4 +8,4 @@ __Summary__: The mathematical properties of __normality__, __symmetry__, and __o
 
 __Graphic__: This is an animation of how the __predictions__ of a model change as it is __trained__. Visit the repository to see the same animation for a less naive model that respects exact symmetry.
 
-![Animation of PINN](https://github.com/Tiger-Du/SE-PINN/blob/main/assets/no_enforcement_of_symmetry.gif)
+![Animation of PINN](/assets/no_enforcement_of_symmetry.gif)
