@@ -1,8 +1,8 @@
 I'm interested in artificial intelligence.
 
-I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science from the University of Pennsylvania.
+I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science at the University of Pennsylvania.
 
-I received a Bachelor of Science (B.S.) in computer science with departmental honors from Vanderbilt University.
+I received a Bachelor of Science (B.S.) in computer science with departmental honors at Vanderbilt University.
 
 ## Research
 
