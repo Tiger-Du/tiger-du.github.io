@@ -1,6 +1,6 @@
-I am interested in artificial intelligence.
+I'm interested in artificial intelligence.
 
-I am a graduate student at the University of Pennsylvania, where I am a candidate for a Master of Science in Engineering (M.S.E.) in data science.
+I'm a graduate student at the University of Pennsylvania, where I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science.
 
 I received a Bachelor of Science (B.S.) in computer science with departmental honors from Vanderbilt University.
 
