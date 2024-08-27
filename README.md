@@ -4,7 +4,7 @@ I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science 
 
 I received a Bachelor of Science (B.S.) in computer science with departmental honors at [Vanderbilt University](https://www.vanderbilt.edu/).
 
-![Image](/assets/1723168802376.jpg)
+<img src="/assets/1723168802376.jpg" alt="Image" width="150"/>
 
 ## Research
 
