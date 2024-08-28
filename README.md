@@ -6,6 +6,8 @@ I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science 
 
 I received a Bachelor of Science (B.S.) in computer science with departmental honors at [Vanderbilt University](https://www.vanderbilt.edu/).
 
+For reference, my GitHub account is available at [www.github.com/Tiger-Du](https://www.github.com/Tiger-Du).
+
 ## Research
 
 ### Solving the Schrödinger Equation via Physics-Informed Machine Learning
