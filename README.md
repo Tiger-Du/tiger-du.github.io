@@ -1,10 +1,10 @@
 <img src="/assets/1723168802376.jpg" alt="Image" width="150"/>
 
-My name's Tiger, and I'm interested in data science and machine learning.
+My name's Tiger, and I'm interested in **data science** and **machine learning**.
 
-I'm a candidate for a Master of Science in Engineering (M.S.E.) in data science at the [University of Pennsylvania](https://www.upenn.edu/).
+I'm a candidate for a Master of Science in Engineering (M.S.E.) in **data science** at the [University of Pennsylvania](https://www.upenn.edu/).
 
-I received a Bachelor of Science (B.S.) in computer science with departmental honors at [Vanderbilt University](https://www.vanderbilt.edu/).
+I received a Bachelor of Science (B.S.) in **computer science** with departmental honors at [Vanderbilt University](https://www.vanderbilt.edu/).
 
 For reference, my GitHub account is available at [www.github.com/Tiger-Du](https://www.github.com/Tiger-Du).
 
