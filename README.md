@@ -6,7 +6,7 @@ I'm a candidate for a Master of Science in Engineering (M.S.E.) in **data scienc
 
 I received a Bachelor of Science (B.S.) in **computer science** with departmental honors at [Vanderbilt University](https://www.vanderbilt.edu/).
 
-For reference, my GitHub account is available at [www.github.com/Tiger-Du](https://www.github.com/Tiger-Du).
+My GitHub profile is available at [www.github.com/Tiger-Du](https://www.github.com/Tiger-Du).
 
 ## Research
 
