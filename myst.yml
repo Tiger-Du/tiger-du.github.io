@@ -1,0 +1,26 @@
+version: 1
+project:
+  title: Information Gain
+  exports:
+  downloads:
+    - file: null
+      title: null
+site:
+  template: book-theme
+  nav:
+    - title: "Research"
+      url: /research
+    - title: "Typography"
+      url: /typography
+    - title: "Poetry"
+      url: /poetry
+  actions:
+    - title: null
+      url: null
+  options:
+    logo_text: "Information Gain"
+    hide_toc: True
+    hide_footer_links: True
+    hide_search: True
+    hide_outline: False
+    favicon: images/favicon.ico
