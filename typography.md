@@ -2,7 +2,7 @@
 title: Typography
 subtitle: A picture is worth a thousand words. But words are pictures too.
 short_title: Typography
-options:
+site:
     hide_toc: True
 downloads:
   - file: null

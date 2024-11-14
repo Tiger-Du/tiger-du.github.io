@@ -1,5 +1,6 @@
 ---
 title: Research
+short_title: Research
 downloads:
   - file: null
     title: null

@@ -1,7 +1,6 @@
 version: 1
 project:
   title: "Information Gain"
-  # exports:
   downloads:
     - file: null
       title: null

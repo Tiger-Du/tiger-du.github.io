@@ -5,6 +5,9 @@ short_title: Poetry
 downloads:
   - file: null
     title: null
+site:
+  hide_toc: True
+  hide_outline: True
 ---
 
 ---
@@ -13,7 +16,7 @@ downloads:
 :align: left
 :width: 60%
 
-Virgil reading the Aeneid. [Wikimedia](https://commons.wikimedia.org/wiki/File:Virgil_Reading_the_Aeneid.jpg)
+Virgil reading the Aeneid aloud. [Wikimedia](https://commons.wikimedia.org/wiki/File:Virgil_Reading_the_Aeneid.jpg)
 :::
 
 Besides research and typography, I am also interested in natural language.
