@@ -1,0 +1,13 @@
+name: env
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - jupyterlab
+  - matplotlib
+  - pre-commit
+  - python
+  - setuptools>=69.0.3
+  - sphinx-pythia-theme
+  - mystmd
+  - nodejs
