@@ -1,22 +1,22 @@
 version: 1
 project:
-  title: Information Gain
-  exports:
-  downloads:
-    - file: null
-      title: null
+  title: "Information Gain"
+  # exports:
+  # downloads:
+  #   - file: null
+  #     title: null
 site:
   template: book-theme
   nav:
     - title: "Research"
-      url: /research
+      url: "/research"
     - title: "Typography"
-      url: /typography
+      url: "/typography"
     - title: "Poetry"
-      url: /poetry
-  actions:
-    - title: null
-      url: null
+      url: "/poetry"
+  # actions:
+  #   - title: null
+  #     url: null
   options:
     logo_text: "Information Gain"
     hide_toc: True
@@ -24,3 +24,4 @@ site:
     hide_search: True
     hide_outline: False
     favicon: images/favicon.ico
+    use_download_button: False

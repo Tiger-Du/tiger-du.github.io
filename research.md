@@ -1,8 +1,8 @@
 ---
 title: Research
-downloads:
-  - file: null
-    title: null
+# downloads:
+#   - file: null
+#     title: null
 ---
 
 ### [Analyzing Embeddings of Prompts](embeddings)

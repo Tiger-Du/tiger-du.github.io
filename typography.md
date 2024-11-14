@@ -4,9 +4,9 @@ subtitle: A picture is worth a thousand words. But words are pictures too.
 short_title: Typography
 options:
     hide_toc: True
-downloads:
-  - file: null
-    title: null
+# downloads:
+#   - file: null
+#     title: null
 ---
 
 ---
