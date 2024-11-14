@@ -30,7 +30,7 @@ Furthermore, what is the "canonical representation" of a character?
 
 In light of these questions, I decided to create a font that is intuitive enough that anyone can understand how each character is designed — and therefore anyone can reproduce.
 
-I call it Relatia, after _relationship_, and it's available here at FontStruct.
+I call it Relatia, after _relationship_, and it is available at FontStruct.
 
 Here is an example.
 
@@ -39,9 +39,9 @@ Here is an example.
 :width: 50%
 :::
 
-It's quite simple, right?
+It is quite simple, right?
 
-As a result, it's more abstract and also more universal. You do not need the font file to use it; you can recreate it yourself!
+As a result, it is more abstract and also more universal. You do not need the font file to use it; you can recreate it yourself!
 
 ---
 
@@ -68,7 +68,7 @@ I found [references](https://web.archive.org/web/19980126170356/http://www.unico
 
 You can also see for yourself on the Unicode website by downloading the [chart](https://www.unicode.org/charts/PDF/U0000.pdf) for the English alphabet, opening it with Adobe Acrobat, and inspecting _Document properties_ > _Fonts_.
 
-I'm often interested by how conventions originate and develop — especially when they are unexpected!
+I am often interested by how conventions originate and develop — especially when they are unexpected!
 
 \- Tiger
 

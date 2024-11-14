@@ -23,9 +23,9 @@ Besides research and typography, I am also interested in natural language.
 
 Poetry in particular interested me during my childhood, and I was often amazed by the creative use of both _rhyming_ and _meter_.
 
-It's perhaps no wonder that I now spend a lot of my time coding.
+It is perhaps no wonder that I now spend a lot of my time coding.
 
-It's also noteworthy that poetry has become a popular test of how capable a language model is.
+It is also noteworthy that poetry has become a popular test of how capable a language model is.
 
 Here are two poems that I composed in my childhood — both about the outdoors, which is another of my pastimes. They are quite melodramatic, but so is most poetry that I know of!
 
