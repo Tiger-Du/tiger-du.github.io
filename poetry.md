@@ -24,7 +24,7 @@ It's perhaps no wonder that I now spend a lot of my time coding.
 
 It's also noteworthy that poetry has become a popular test of how capable a language model is.
 
-Here are two poems that I composed before college — both about the outdoors, which is another of my pastimes. They are quite melodramatic, but so is most poetry that I know of!
+Here are two poems that I composed in my childhood — both about the outdoors, which is another of my pastimes. They are quite melodramatic, but so is most poetry that I know of!
 
 Besides rhyming and meter, see whether you can identify the uses of assonance, consonance, and alliteration.
 
@@ -34,55 +34,78 @@ Besides rhyming and meter, see whether you can identify the uses of assonance, c
 
 ## Day and Night
 
-Day is born with mellow light. \
+Day is born with gentle light. \
 Nascent gods blind naught in sight. \
-Mild sun of soft repose... \
-Mild sky of pleasant glows... \
+&ensp;&ensp;&ensp;&ensp;Mild sun of soft repose... \
+&ensp;&ensp;&ensp;&ensp;Mild sky of pleasant glows... \
 Morning bridles daylight’s might.
+
+:::{aside} _Stanza 1_
+{sc}`_Assonance and Consonance_`
+:::
 
 Midday rouses ardent flame. \
 Passion burns what does fall lame. \
-Fervent fire on the turf... \
-Fervent luster on the surf... \
-Full grown daylight—all but tame.
+&ensp;&ensp;&ensp;&ensp;Fervent fire on the turf... \
+&ensp;&ensp;&ensp;&ensp;Fervent luster on the surf... \
+Full-grown daylight—all but tame.
+
+:::{aside} _Stanza 2_
+{sc}`_Assonance and Alliteration_`
+:::
 
 Hues of anguish shroud the scene. \
 Heaven flares with shameful sheen. \
-Painted sky for painful woes... \
-Painted clouds for painful throes... \
+&ensp;&ensp;&ensp;&ensp;Painted sky for painful woes... \
+&ensp;&ensp;&ensp;&ensp;Painted clouds for painful throes... \
 Welkin blood hails fair Selene.
+
+:::{aside} _Stanza 3_
+{sc}`_Assonance, Consonance, and Alliteration_`
+:::
 
 Night descends on drowsy eyes. \
 Darkness lies on onyx skies. \
-Silver moon in frigid air... \
-Silver stars in midnight’s lair... \
-At this hour daylight dies—.
+&ensp;&ensp;&ensp;&ensp;Silver moon in frigid air... \
+&ensp;&ensp;&ensp;&ensp;Silver stars in midnight’s lair... \
+At this hour daylight dies...
+
+:::{aside} _Stanza 4_
+{sc}`_Assonance and Alliteration_`
+:::
 
 _© 2018 Tiger Du. All rights reserved._
 
 ---
 
-## Nature
-
-Crystal breezes wander by; \
-Fond embrace harks nature’s sigh. \
-Lift do Mother’s breaths the sky... \
-To lead life and essence nigh.
+## The Forest
 
 Wooded forest, full of sound... \
 Home to holy birds abound... \
-Sing do card’nals, crimson crowned; \
-Soar do euphonies unbound.
+Sing do card’nals, crimson-crowned; \
+Soar do carols all around.
 
-Ripples in the quiet creek... \
-Under the cliff’s earthen peak... \
-Breathe do rivers silent speak. \
-Yet do rapids chaos wreak.
+:::{aside} _Stanza 1_
+{sc}`_Assonance and Alliteration_`
+:::
 
 Sylvan souls quest plain ideal; \
 At the forest floor, they kneel. \
-Seek do gentle insects meal. \
-Dash do creatures forth per zeal.
+Dash do fauna forth per zeal. \
+Seek do gentle grazers meal.
+
+:::{aside} _Stanza 2_
+{sc}`_Assonance and Alliteration_`
+:::
+
+Crystal breezes wander by... \
+Fond embrace of nature’s sigh... \
+Lift do Mother’s breaths the sky... \
+To lead life and essence nigh...
+
+:::{aside} _Stanza 3_
+{sc}`_Assonance, Consonance, and Alliteration_`
+:::
 
 _© 2016 Tiger Du. All rights reserved._
 
