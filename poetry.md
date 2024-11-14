@@ -26,7 +26,7 @@ It's also noteworthy that poetry has become a popular test of how capable a lang
 
 Here are two poems that I composed before college — both about the outdoors, which is another of my pastimes. They are quite melodramatic, but so is most poetry that I know of!
 
-Besides rhyming and meter, see whether you can identify the other rhetorical devices, of which there are many.
+Besides rhyming and meter, see whether you can identify the uses of assonance, consonance, and alliteration.
 
 \- Tiger
 
