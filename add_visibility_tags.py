@@ -5,9 +5,9 @@ import nbformat as nbf
 notebooks = glob("./*.ipynb", recursive=True)
 
 text_search_dict = {
-    "# Hide Cell": "remove-cell",
-    "# Hide Input": "remove-input",
-    "# Hide Output": "remove-output",
+    "# remove-cell": "remove-cell",
+    "# remove-input": "remove-input",
+    "# remove-output": "remove-output",
 }
 
 for ipath in notebooks:
