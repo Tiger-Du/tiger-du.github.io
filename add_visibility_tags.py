@@ -22,5 +22,5 @@ for ipath in notebooks:
         if len(cell_tags) > 0:
             cell['metadata']['tags'] = cell_tags
 
-    notebook.write(notebook, ipath)
+    nbf.write(notebook, ipath)
   
