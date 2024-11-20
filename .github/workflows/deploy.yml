@@ -1,4 +1,4 @@
-name: GitHub Pages Deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -24,9 +24,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout GitHub Repository
+        uses: actions/checkout@v4
       
-      - name: Setup Pages
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v3
 
       - name: Setup Python
@@ -38,8 +39,9 @@ jobs:
         run: |
           pip install nbformat
           python ./add_visibility_tags.py
-      
-      - uses: actions/setup-node@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 18.x
           
@@ -48,14 +50,8 @@ jobs:
         
       - name: Build HTML Assets
         run: myst build --html
-
-      - name: Reformat
-        run: |
-          pip install beautifulsoup4
-          pip install lxml
-          python ./reformat.py
         
-      - name: Upload artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: './_build/html'
