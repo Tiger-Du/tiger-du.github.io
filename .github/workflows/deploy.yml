@@ -50,7 +50,10 @@ jobs:
         run: myst build --html
 
       - name: Reformat
-        run: python ./reformat.py
+        run: |
+          pip install BeautifulSoup
+          pip install lxml
+          python ./reformat.py
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
