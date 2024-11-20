@@ -39,4 +39,4 @@ with open('./_build/html/embeddings.html', 'r+') as file:
 with open('./_build/html/embeddings.html', 'r') as file:
     soup = BeautifulSoup(file, 'lxml')
 
-    soup
+    print(soup.prettify('utf-8'))
