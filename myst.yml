@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: "Information Gain"
+  title: "Tiger Du"
   downloads:
     - file: null
       title: null
@@ -17,7 +17,7 @@ site:
   #   - title: null
   #     url: null
   options:
-    logo_text: "Information Gain"
+    logo_text: "Home"
     hide_toc: True
     hide_footer_links: True
     hide_search: True

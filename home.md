@@ -1,5 +1,5 @@
 ---
-title: A Blog by Tiger Du
+title: Tiger Du
 downloads:
   - file: null
     title: null
