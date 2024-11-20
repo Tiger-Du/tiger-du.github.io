@@ -51,7 +51,7 @@ jobs:
 
       - name: Reformat
         run: |
-          pip install BeautifulSoup
+          pip install beautifulsoup4
           pip install lxml
           python ./reformat.py
         
