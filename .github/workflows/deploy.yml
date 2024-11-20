@@ -48,6 +48,9 @@ jobs:
         
       - name: Build HTML Assets
         run: myst build --html
+
+      - name: Reformat
+        run: python ./reformat.py
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
