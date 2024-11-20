@@ -37,7 +37,7 @@ jobs:
       - name: Add Visibility Tags to Jupyter Notebooks
         run: |
           pip install nbformat
-          python ./add_visibility_tags
+          python ./add_visibility_tags.py
       
       - uses: actions/setup-node@v4
         with:
