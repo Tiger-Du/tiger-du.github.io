@@ -35,3 +35,8 @@ with open('./_build/html/embeddings.html', 'r+') as file:
         file.write(str(soup))
     except:
         file.write(soup.prettify('utf-8'))
+
+with open('./_build/html/embeddings.html', 'r') as file:
+    soup = BeautifulSoup(file, 'lxml')
+
+    soup
