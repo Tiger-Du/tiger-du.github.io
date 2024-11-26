@@ -8,7 +8,7 @@ downloads:
 
 ### Analyzing Embeddings of Prompts
 
-[Webpage](embeddings) | [GitHub Repository](https://github.com/Tiger-Du/SE-PINN)
+[Webpage](sepinn) | [GitHub Repository](https://github.com/Tiger-Du/SE-PINN)
 
 ---
 
